@@ -2,14 +2,16 @@
 
 This document contains a curated list of supplemental learning resources to deepen your understanding of the concepts covered in this repository.
 
-## Module 01: Prompt Engineering Layer
+## Module 01: Natural Language Programming
+
+*Core Book: Bouchard*
 
 | Resource Type | Topic | Link/Description |
 | :--- | :--- | :--- |
 | Deep Dive | Prompt Engineering | [Video Title Placeholder](https://www.youtube.com/watch?v=2BpCk4d2Cc0) <br>*Why this matters: This video breaks down prompt engineering from a first‑principles perspective, showing you how to construct effective prompts in plain Python without relying on external libraries.* |
 | Tutorial | Structured Outputs | [Video Title Placeholder](https://www.youtube.com/watch?v=vT-DpLvf29Q) <br>*Why this matters: Learn how to enforce structured outputs from LLMs using Pydantic, a foundational skill for building reliable agentic systems from scratch.* |
 
-## Module 02: Embeddings and RAG
+## Module 02: Semantic Search and Memory
 
 | Resource Type | Topic | Link/Description |
 | :--- | :--- | :--- |
@@ -24,21 +26,21 @@ This document contains a curated list of supplemental learning resources to deep
 | Deep Dive | Agent Architecture | [Video Title Placeholder](https://www.youtube.com/watch?v=placeholder) <br>*Why this matters: Explores the internal components and data flow of a core autonomous agent.* |
 | Tutorial | State Management | [Video Title Placeholder](https://www.youtube.com/watch?v=placeholder) <br>*Why this matters: Demonstrates techniques for managing agent state across interactions.* |
 
-## Module 04: Agent Quality and Observability
+## Module 04: Feedback Loops and Evals
 
 | Resource Type | Topic | Link/Description |
 | :--- | :--- | :--- |
 | Concept | Evaluation Metrics | [Video Title Placeholder](https://www.youtube.com/watch?v=placeholder) <br>*Why this matters: Introduces metrics for assessing agent performance and reliability.* |
 | Deep Dive | Observability Tools | [Video Title Placeholder](https://www.youtube.com/watch?v=placeholder) <br>*Why this matters: Shows how to instrument agents for monitoring and debugging.* |
 
-## Module 05: Agentic Data Engineering
+## Module 05: Autonomous Information Extraction
 
 | Resource Type | Topic | Link/Description |
 | :--- | :--- | :--- |
 | Tutorial | Data Pipelines for Agents | [Video Title Placeholder](https://www.youtube.com/watch?v=placeholder) <br>*Why this matters: Guides the creation of robust data pipelines that feed agents with high‑quality information.* |
 | Deep Dive | Data Versioning | [Video Title Placeholder](https://www.youtube.com/watch?v=placeholder) <br>*Why this matters: Discusses strategies for versioning datasets used by agents.* |
 
-## Module 06: Advanced Orchestration
+## Module 06: Multi Agent Topologies
 
 | Resource Type | Topic | Link/Description |
 | :--- | :--- | :--- |
@@ -52,14 +54,14 @@ This document contains a curated list of supplemental learning resources to deep
 | Concept | Interaction Design | [Video Title Placeholder](https://www.youtube.com/watch?v=placeholder) <br>*Why this matters: Explores principles for designing intuitive human‑agent interfaces.* |
 | Deep Dive | Feedback Loops | [Video Title Placeholder](https://www.youtube.com/watch?v=placeholder) <br>*Why this matters: Details mechanisms for incorporating user feedback into agent behavior.* |
 
-## Module 08: Inference Economics
+## Module 08: Inference and Compute Optimization
 
 | Resource Type | Topic | Link/Description |
 | :--- | :--- | :--- |
 | Tutorial | Cost‑Effective Inference | [Video Title Placeholder](https://www.youtube.com/watch?v=placeholder) <br>*Why this matters: Shows how to optimize inference costs while maintaining performance.* |
 | Deep Dive | Pricing Models | [Video Title Placeholder](https://www.youtube.com/watch?v=placeholder) <br>*Why this matters: Analyzes different pricing strategies for LLM inference services.* |
 
-## Module 09: Defensive Engineering
+## Module 09: Adversarial Reliability and Trust
 
 | Resource Type | Topic | Link/Description |
 | :--- | :--- | :--- |
